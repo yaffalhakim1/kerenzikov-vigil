@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yaffalhakim1.github.io/kerenzikov-vigil/sitemap.xml
